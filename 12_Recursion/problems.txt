@@ -1,0 +1,6 @@
+x - 1. Return Factorial
+x - 2. Fibonacci Series
+x - 3. Check for sorted array
+x - 4. Recursive Search
+x - 5. Power function
+6. Number spell
